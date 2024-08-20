@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <em>@AgentShablool</em>
-- 👀 I’m interested in Coding, LLMs  
+- 👀 I’m interested in LLMs, and SaaS  
 - 🌱 I’m currently learning <strong>HTML, CSS, Javascript</strong>
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me ...
