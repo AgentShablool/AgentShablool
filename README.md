@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Real Estate Broker in NYC
+- ⚡ Fun fact: Real Estate Broker
 
 <!---
 AgentShablool/AgentShablool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
